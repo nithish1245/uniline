@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/uniline/static/css/main.d2924972.chunk.css",
+    "main.js": "/uniline/static/js/main.951e5383.chunk.js",
+    "main.js.map": "/uniline/static/js/main.951e5383.chunk.js.map",
+    "runtime-main.js": "/uniline/static/js/runtime-main.1adc826a.js",
+    "runtime-main.js.map": "/uniline/static/js/runtime-main.1adc826a.js.map",
+    "static/js/2.68a01cf8.chunk.js": "/uniline/static/js/2.68a01cf8.chunk.js",
+    "static/js/2.68a01cf8.chunk.js.map": "/uniline/static/js/2.68a01cf8.chunk.js.map",
+    "static/js/3.2ec08097.chunk.js": "/uniline/static/js/3.2ec08097.chunk.js",
+    "static/js/3.2ec08097.chunk.js.map": "/uniline/static/js/3.2ec08097.chunk.js.map",
+    "index.html": "/uniline/index.html",
+    "static/css/main.d2924972.chunk.css.map": "/uniline/static/css/main.d2924972.chunk.css.map",
+    "static/js/2.68a01cf8.chunk.js.LICENSE.txt": "/uniline/static/js/2.68a01cf8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1adc826a.js",
+    "static/js/2.68a01cf8.chunk.js",
+    "static/css/main.d2924972.chunk.css",
+    "static/js/main.951e5383.chunk.js"
+  ]
+}
